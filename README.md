@@ -1,1 +1,1 @@
-# Generation-Python-Advanced-Course
+# Practice and tasks "Поколение Python": курс для продвинутых from @Stepik.org
