@@ -1,0 +1,5 @@
+set = input()
+sum_kop = 0
+for i in set:
+    sum_kop += 60
+print(sum_kop // 100, 'р.', sum_kop % 100, 'коп.')
